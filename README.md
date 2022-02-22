@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fixitdonkey
 - 👀 I’m interested in Learning to CODE!
-- 🌱 I’m currently learning With Dan Cowden
+- 🌱 I’m currently learning With Dan (THE MAN) Cowden
 - 💞️ I’m looking to collaborate on Ansible and Python
 - 📫 How to reach me, you don't. I reach you!
 
